@@ -71,8 +71,8 @@ Adjust the potentiometer and note the corresponding change in output frequency.
 
 **Output**
 	
-	
-(Insert Proteus output diagram here.)
+<img width="692" height="501" alt="Screenshot 2026-10-27 091401" src="https://github.com/user-attachments/assets/891b110c-3160-4b88-8dab-375db3611578" />
+
 
 **Result**
 
